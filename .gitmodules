@@ -1,3 +1,6 @@
 [submodule "workflowfm"]
 	path = workflowfm
 	url = https://github.com/PetrosPapapa/WorkflowFM-Reasoner.git
+[submodule "tools"]
+	path = tools
+	url = https://github.com/PetrosPapapa/hol-light-tools.git

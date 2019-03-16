@@ -1,0 +1,3 @@
+[submodule "workflowfm"]
+	path = workflowfm
+	url = https://github.com/PetrosPapapa/WorkflowFM-Reasoner.git

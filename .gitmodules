@@ -7,3 +7,6 @@
 [submodule "embed"]
 	path = embed
 	url = git@github.com:PetrosPapapa/hol-light-embed.git
+[submodule "composer"]
+	path = composer
+	url = git@github.com:PetrosPapapa/WorkflowFM-composer.git
